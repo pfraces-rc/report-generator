@@ -1,0 +1,4 @@
+export const {
+  REPORT_GENERATOR_PORT: PORT,
+  REPORT_GENERATOR_APP_DATA: APP_DATA
+} = process.env;
